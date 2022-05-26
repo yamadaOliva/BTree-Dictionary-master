@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "dict.h": "c",
+        "btree.h": "c",
+<<<<<<< HEAD
+        "string.h": "c",
+        "suggest.h": "c"
+=======
+        "stdlib.h": "c"
+>>>>>>> e1224d426b328902547de3ca0e51659830e89f38
+    }
+}
